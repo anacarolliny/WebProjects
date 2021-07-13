@@ -22,6 +22,8 @@ Esse curso visa desenvolvimento web.
    <li> Adicionando Links</li>
 </ul>
 
+[Descrição dos conteúdos](https://github.com/anacarolliny/WebProjects/tree/main/CSS)
+
 <ul>
 <h4>Conceitos Iniciais em CSS <span style='font-size:20px;'>&#128216;</span>  </h4>
    <li>Sintaxe do CSS</li>
@@ -32,6 +34,8 @@ Esse curso visa desenvolvimento web.
    <li> Listas</li>
    <li> Adicionando Links</li>
    </ul>
+   
+[Descrição dos conteúdos](https://github.com/anacarolliny/WebProjects/tree/main/HTML)
 
 <ul>
 <h4>Conceitos Iniciais em JavaScript <span style='font-size:20px;'>&#128215;</span> </h4>
@@ -40,7 +44,10 @@ Esse curso visa desenvolvimento web.
    <li>Condicionais: If e Else</li>
    <li>Funções no JavaScript</li>
    </ul>
-<ul>
+
+ [Descrição dos conteúdos](https://github.com/anacarolliny/WebProjects/tree/main/Javascript)
+ 
+ <ul>
 <h4>Dica de carreira em tecnologia <span style='font-size:20px;'>&#128214;</span> </h4>
    <li>Dia a dia da pessoa Front End</li>
    <li> Carreiras no Front End</li>
