@@ -22,7 +22,7 @@ Esse curso visa desenvolvimento web.
    <li> Adicionando Links</li>
 </ul>
 
-[Descrição dos conteúdos](https://github.com/anacarolliny/WebProjects/tree/main/CSS)
+[Descrição dos conteúdos](https://github.com/anacarolliny/WebProjects/tree/main/HTML)
 
 <ul>
 <h4>Conceitos Iniciais em CSS <span style='font-size:20px;'>&#128216;</span>  </h4>
@@ -35,7 +35,7 @@ Esse curso visa desenvolvimento web.
    <li> Adicionando Links</li>
    </ul>
    
-[Descrição dos conteúdos](https://github.com/anacarolliny/WebProjects/tree/main/HTML)
+[Descrição dos conteúdos](https://github.com/anacarolliny/WebProjects/tree/main/CSS)
 
 <ul>
 <h4>Conceitos Iniciais em JavaScript <span style='font-size:20px;'>&#128215;</span> </h4>
