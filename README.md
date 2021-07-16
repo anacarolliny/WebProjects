@@ -21,7 +21,9 @@ Esse curso visa desenvolvimento web.
    <li> Listas</li>
    <li> Adicionando Links</li>
 </ul>
+
 [Descrição dos conteúdos](https://github.com/anacarolliny/WebProjects/tree/main/HTML)
+
 
 <ul>
 <h4>Conceitos Iniciais em CSS <span style='font-size:20px;'>&#128216;</span>  </h4>
