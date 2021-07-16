@@ -9,7 +9,28 @@ Módulo 01 - Esquentando os Motores:
 - O hipertexto
 - O editor de código
 - Atividade para ir além!
-- Hora do feedback!
+><p>Nessa aula podemos aproveitar para praticar de maneira básica, porém pratica um pouco sobre HTML (esqueleto)
+
+>Postando uma Resenha sobre cada filme que foi indicado para se inspirar
+
+<ul>
+<li>Estrelas além do tempo</li>
+<li> O jogo da imitação</li> 
+<li>Matrix</li>
+</ul>
+
+Também podemos aproveitar para deixar de hiperlink algumas curiosidades que foram dadas :
+
+
+<ul>
+<li>Data Center do Google</li>
+<li>Mapa de cabos submarinos de internet</li>
+<li>Como é um cabo de internet submarino</li>
+<li>Como os cabos são colocados no mar</li>
+</p>
+
+[Acesse esse exércicio aqui]()</p>
+Hora do feedback!
 
 Módulo 02 - Conceitos Básicos em HTML
 

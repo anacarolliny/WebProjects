@@ -21,7 +21,6 @@ Esse curso visa desenvolvimento web.
    <li> Listas</li>
    <li> Adicionando Links</li>
 </ul>
-
 [Descrição dos conteúdos](https://github.com/anacarolliny/WebProjects/tree/main/HTML)
 
 <ul>
@@ -34,7 +33,7 @@ Esse curso visa desenvolvimento web.
    <li> Listas</li>
    <li> Adicionando Links</li>
    </ul>
-   
+
 [Descrição dos conteúdos](https://github.com/anacarolliny/WebProjects/tree/main/CSS)
 
 <ul>
@@ -46,7 +45,7 @@ Esse curso visa desenvolvimento web.
    </ul>
 
  [Descrição dos conteúdos](https://github.com/anacarolliny/WebProjects/tree/main/Javascript)
- 
+
  <ul>
 <h4>Dica de carreira em tecnologia <span style='font-size:20px;'>&#128214;</span> </h4>
    <li>Dia a dia da pessoa Front End</li>
