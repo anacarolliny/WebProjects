@@ -19,6 +19,10 @@ Módulo 02 - Conceitos Básicos em HTML
 - Listas e Links
 
 
+### **Anotações: O editor de código**
+>Nesse projetinho irá ser utilizado o [Replit](https://replit.com/) Além de ser um editor de código online, ou seja, você utiliza ele numa aba do seu navegador, sem precisar instalar nada, o Repl.it também armazena seu trabalho e o publica na web, criando uma URL para acessá-lo e compartilhar suas criações com as outras pessoas!**
+
+
 ### **Práticando : Atividade para ir além**
 ><p>Nessa aula podemos aproveitar para praticar de maneira básica, porém pratica um pouco sobre HTML (esqueleto)
 >Postando uma Resenha sobre cada filme que foi indicado para se inspirar
@@ -39,6 +43,9 @@ Também podemos aproveitar para deixar de hiperlink algumas curiosidades que for
 </p>
 
 [Acesse esse exércicio aqui](https://github.com/anacarolliny/WebProjects/blob/main/HTML/atividadeiralem.html)</p>
+
+
+
 
 
 
