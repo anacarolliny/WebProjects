@@ -29,7 +29,7 @@ Também podemos aproveitar para deixar de hiperlink algumas curiosidades que for
 <li>Como os cabos são colocados no mar</li>
 </p>
 
-[Acesse esse exércicio aqui]()</p>
+[Acesse esse exércicio aqui](https://github.com/anacarolliny/WebProjects/blob/main/HTML/atividadeiralem.html)</p>
 Hora do feedback!
 
 Módulo 02 - Conceitos Básicos em HTML
